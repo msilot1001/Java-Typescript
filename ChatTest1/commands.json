@@ -1,0 +1,12 @@
+{
+    "cmdlist": [
+        {"CmdName":"안녕", "cmdfile":null, "output":"안녕하세여!", "reaction":"😀"},
+        {"CmdName":"뭐해", "cmdfile":null, "output":"코드를 읽고 있어요!", "reaction":null},
+        {"CmdName":"냥냥", "cmdfile":null, "output":"안녕하세요 키딩냥이에요 냥냥!.. 어 이거 아닌가?", "reaction":null},
+        {"CmdName":"구알릭", "cmdfile":null, "output":"구알릭 (Guarlic#4857) 님은 저의 개발자에요! 김개미봇도 만들었다 해요!!", "reaction":"null"},
+        {"CmdName":"잘가", "cmdfile":null, "output":"잘가요 ㅜㅜ", "reaction":null},
+        {"CmdName":"서버", "cmdfile":"server.js", "output":"", "reaction":null},
+        {"CmdName":"채널", "cmdfile":"channel.js", "output":"", "reaction":null},
+        {"CmdName":"유저", "cmdfile":"user.js", "output":"", "reaction":null}
+    ]
+}
